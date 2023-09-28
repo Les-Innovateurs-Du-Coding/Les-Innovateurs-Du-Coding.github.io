@@ -5,13 +5,29 @@ body{
     background: url(images/background.png) ;
 
 }
+.fc{
+    margin: 0 auto;
+    width: 25%;
+}
+.about-us{
+    margin: 0 auto;
+    width: 50%;
+}
+
+.contact-item{
+    margin: 0 auto;
+    width:10%;
+}
+.contact{
+    float:  left;
+}
 .nav{
     background-color:#e96b03;
     width: 100%;
     margin:0;
-    height: auto;
+    height:auto;
     position: fixed;
-    height: 60px;
+    
 }
 p{
     width: 60%;
@@ -23,10 +39,11 @@ p{
     background-color: black;
     border: 1px solid darkgrey;
     margin: 70px auto;
-    padding: 30px;
-    width: 75%;
+    padding: 2px;
+    width: 55%;
     border-radius: 1%;
     color: white;
+
 }
 
 .logo-nav{
@@ -73,7 +90,7 @@ p{
 }
 
 .marge{
-    margin-left: 360px;
+    margin-left: 25%;
 
 
 }
@@ -132,7 +149,7 @@ color:rgb(52, 116, 255);
 .div-illustraion-images{
     margin: 5px;
     display: inline-block;
-    float: left;
+   
 }
 
 .reset-float{
@@ -177,3 +194,4 @@ color:rgb(52, 116, 255);
     margin: 0 auto;
 
 }
+
