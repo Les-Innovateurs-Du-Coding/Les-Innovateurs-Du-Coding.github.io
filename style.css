@@ -2,7 +2,7 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     margin:0;
     background-repeat:repeat;
-    background: url(images/background.png) ;
+    background: url(images/back.png) ;
 
 }
 .fc{
@@ -22,7 +22,7 @@ body{
     float:  left;
 }
 .nav{
-    background-color:#e96b03;
+    background-color:#d2e903;
     width: 100%;
     margin:0;
     height:auto;
@@ -36,13 +36,13 @@ p{
 
 
 .main{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     border: 1px solid darkgrey;
     margin: 70px auto;
     padding: 2px;
     width: 55%;
     border-radius: 1%;
-    color: white;
+    color: rgb(0, 0, 0);
 
 }
 
@@ -78,7 +78,7 @@ p{
     color: white;
     background-color: black;
     border-radius:10px;
-    border: 2px solid #ffd000;
+    border: 2px solid #44ff00;
     padding: 5px 9px ;
     margin: 5px 20px;
     float: left;
@@ -90,13 +90,13 @@ p{
 }
 
 .marge{
-    margin-left: 25%;
+    margin-left: 30%;
 
 
 }
 
 .bouton-nav:hover{
-    color:rgb(211, 3, 3);
+    color:rgb(12, 117, 0);
     background-color: rgb(255, 255, 255);
     border: 2px solid rgb(255, 255, 255); 
     font-size: 22px;
@@ -157,7 +157,7 @@ color:rgb(52, 116, 255);
 }
 
 .lien:hover{
-    color: rgb(255, 0, 0);
+    color: rgb(0, 125, 12);
     
     transition: all 0.5s;
 
